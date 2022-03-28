@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/rainbow-me/react-native-animated-charts/issues"
   },
+  "resolutions": {
+    "react-native-gesture-handler": "^2"
+  },
   "homepage": "https://github.com/rainbow-me/react-native-animated-charts#readme"
 }
